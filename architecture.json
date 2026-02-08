@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-italian-maximalist-tradition-innovation",
+  "title": "The Resonance of Broken Purpose",
+  "tagline": "In a Florence of divine beauty and human flaws, a passionate apprentice must learn that true creation lies not in perfect forms, but in the art of persuasion.",
+  "target_words": 73273,
+  "actual_words": 73273,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Perfection",
+    "Art as Divine Persuasion",
+    "The Burden of Inheritance",
+    "The Silence of Unmade Things"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Discordant Note in Marble",
+      "words": 6661
+    },
+    {
+      "ch": 2,
+      "title": "The Master's Unfolded Arms",
+      "words": 6661
+    },
+    {
+      "ch": 3,
+      "title": "The Road to God's Hidden Form",
+      "words": 6661
+    },
+    {
+      "ch": 4,
+      "title": "The Mountain's Silent Scream",
+      "words": 6661
+    },
+    {
+      "ch": 5,
+      "title": "Where the Forest Does Not Begin",
+      "words": 6661
+    },
+    {
+      "ch": 6,
+      "title": "A Dawnless Measure of Time",
+      "words": 6661
+    },
+    {
+      "ch": 7,
+      "title": "The Lie of Intention",
+      "words": 6661
+    },
+    {
+      "ch": 8,
+      "title": "The Bell Before the Hammer",
+      "words": 6661
+    },
+    {
+      "ch": 9,
+      "title": "A Silence of Struck Bronze",
+      "words": 6661
+    },
+    {
+      "ch": 10,
+      "title": "The Resonance of Broken Purpose",
+      "words": 6661
+    },
+    {
+      "ch": 11,
+      "title": "The Listening That Grew",
+      "words": 6661
+    }
+  ]
+}
